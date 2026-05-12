@@ -35,8 +35,8 @@ Figure 1: Scatter plot showing the correlation between price and performance ben
 
 Insights Found
 
-The Sweet Spot: The RTX 5050 and RX 9060 XT consistently offer the lowest Price-per-Performance index.
+- The RTX 5050 and RX 9060 XT consistently offer the lowest Price-per-Performance index.
 
-The Enthusiast Tax: High-end cards like the RTX 5070 TI show massive price variance (High STD), indicating that buyers are often paying for "Brand Aesthetics" rather than raw performance gains.
+- High-end cards like the RTX 5070 TI show massive price variance (High STD), indicating that buyers are often paying for "Brand Aesthetics" rather than raw performance gains.
 
-Efficiency Frontier: Listings sitting below the dashed trend line represent "Statistically Significant Deals."
+- Listings sitting below the dashed trend line represent "Statistically Significant Deals."
