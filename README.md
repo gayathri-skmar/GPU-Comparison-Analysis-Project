@@ -25,7 +25,7 @@ Scraping: BeautifulSoup, Requests, Selenium
 
 Visualization: Matplotlib, Seaborn
 
-Other: Numppy, Time
+Other: Numpy, Time
 
 Visualizing the Market
 
